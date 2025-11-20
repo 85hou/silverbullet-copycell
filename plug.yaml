@@ -1,6 +1,9 @@
 name: copycell
-version: 0.1.0
-entry: index.ts
-description: Add hover-copy 📋 button to every <td> table cell in SilverBullet.
+version: 0.2.0
+description: Add 📋 hover-copy button to all <td> elements in SilverBullet V2.
 author: 85hou
 license: MIT
+
+clientScripts:
+  - client/style.css
+  - client/index.ts

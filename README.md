@@ -1,15 +1,14 @@
 # silverbullet-copycell
 
-A simple SilverBullet V2 plug that adds a 📋 hover-copy button to every `<td>` table cell.
+A SilverBullet V2 plugin that adds a 📋 hover-copy button to every <td> table cell.
 
-## Installation
+## Install
 
-1. Open command palette in SilverBullet
-2. Select: **Plugs: Add Plug from URL**
-3. Enter:
+In SilverBullet:
 
-```
+- Command Palette → Plugs: Add Plug from URL
+- Paste:
+
 https://github.com/85hou/silverbullet-copycell
-```
 
-SilverBullet will install and compile the plug.
+SilverBullet will load the client plug automatically.

@@ -1,0 +1,23 @@
+td {
+  position: relative;
+}
+
+.copycell-btn {
+  display: none;
+  position: absolute;
+  right: 4px;
+  top: 2px;
+  cursor: pointer;
+  opacity: 0.6;
+  font-size: 12px;
+  background: none;
+  border: none;
+}
+
+td:hover .copycell-btn {
+  display: inline;
+}
+
+.copycell-btn:hover {
+  opacity: 1;
+}
